@@ -1,0 +1,18 @@
+name = "Purus"
+license = "MIT"
+licenselink = "https://github.com/Pseudomanifold/hugo-purus/blob/master/LICENSE"
+description = "A pure and simple Hugo theme"
+homepage = "https://bastian.rieck.me/"
+tags = ["simple", "minimalist", "personal"]
+features = ["blog"]
+min_version = "0.41"
+
+[author]
+  name = "Bastian Rieck"
+  homepage = "https://bastian.rieck.me"
+
+# If porting an existing theme
+[original]
+  name = ""
+  homepage = ""
+  repo = ""

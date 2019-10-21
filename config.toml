@@ -1,0 +1,58 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Skye Blog"
+theme = "purus"
+enableEmoji = true
+
+
+[[menu.main]]
+	name = "About"
+	url = "/about"
+	weight = -200
+
+[[menu.main]]
+	name = "CV"
+	url = "/CV"
+	weight = 0
+
+[[menu.main]]
+	name = "Blog"
+	url = "/blog"
+	weight = -100
+
+[[menu.main]]
+	name = "Projects"
+	url = "/projects"
+	weight = -150
+
+
+[params]
+
+
+
+
+
+#header set up 
+[params.header]
+
+	 name = "Skyler"
+	 description = "This is my blog"
+	 email = "skylerthomas0@gmail.com"
+
+
+
+#footer set up
+[params.footer]
+	
+
+
+
+
+
+[taxonomies]
+
+	tag = "tag"
+	category = "categories"
+	projects = "projects"
+	iwp = "iwp"
+	

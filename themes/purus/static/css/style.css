@@ -1,0 +1,85 @@
+html
+{
+  overflow-y: scroll;
+}
+
+/*Applied so that font stacks with Pure.css*/
+body, html, button, input, select, textarea,
+    .pure-g [class *= "pure-u"]
+{
+  /*font-family: 'Crimson Text', serif;*/
+  font-family: 'Roboto', sans-serif;
+  font-size: 1.25em;
+  max-width: 960px;
+
+  margin-left: auto;
+  margin-right: auto;
+
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+
+/*End of Pure Css markup */
+
+img
+{
+  width: 25%;
+  height: 25%;
+}
+
+
+a
+{
+  font-weight: bold;
+}
+
+h1, h2, h3, h4, h5
+{
+  font-variant: small-caps;
+}
+
+h1.title
+{
+  margin-bottom: 0;
+}
+
+h2.tags, h2.feeds
+{
+  margin-top: 0;
+  line-height: 1em;
+  font-variant: None;
+}
+
+pre, pre.chroma
+{
+  padding: 1em;
+  background-color: #F5F5F5;
+  border: 1px solid #E5E5E5;
+  overflow: auto;
+}
+
+header
+{
+  margin-bottom: 1em;
+  border-bottom: 1px solid;
+  padding-bottom: 0.5em;
+}
+
+footer
+{
+  border-top: 1px solid black;
+  margin-top: 1em;
+  padding-top: 0.5em;
+}
+
+#tags
+{
+  margin-bottom: 10px;
+}
+
+.footnotes
+{
+  font-size: 0.75em;
+}
+

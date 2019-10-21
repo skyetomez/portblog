@@ -1,0 +1,332 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"probab",
+				"probability"
+			],
+			[
+				"summary",
+				"summary_writer〔variable〕"
+			],
+			[
+				"batch",
+				"batch_ys〔variable〕"
+			],
+			[
+				"train",
+				"training_iteration〔variable〕"
+			],
+			[
+				"back",
+				"background-image"
+			],
+			[
+				"html",
+				"html5\tSimple HTML5 Boilerplate"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 316.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"markdownLivePreview",
+				"MarkdownLivePreview: Edit Current File"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control:",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: isntall",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"bracket",
+				"Preferences: BracketGuard Settings - Default"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"brackethighlighter:Tog",
+				"BracketHighlighter: Toggle High Visibility Mode"
+			],
+			[
+				"Package Control: instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control:instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: isnt",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 836.0
+	},
+	"console":
+	{
+		"height": 200.0,
+		"history":
+		[
+			"cmd"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": false,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Hugo/skylers_blog/content/advneuro/advanced_neuroscience.md",
+		"/C/Hugo/skylers_blog/content/Algebraic_Topology/Algebraic_Topology.md",
+		"/C/Hugo/skylers_blog/content/Algebraic_Topology/_index.md",
+		"/C/Hugo/skylers_blog/content/CV.md",
+		"/C/Hugo/skylers_blog/content/poly/_index.md",
+		"/C/Hugo/skylers_blog/content/advanced_neuroscience/advanced_neuroscience.md",
+		"/C/Hugo/skylers_blog/content/advanced_neuroscience/_index.md",
+		"/C/Hugo/skylers_blog/content/elementary_neuroscience/_index.md",
+		"/C/Hugo/skylers_blog/content/poly/polynomials.md",
+		"/C/Hugo/skylers_blog/themes/purus/layouts/_default/list.html",
+		"/C/Hugo/skylers_blog/config.toml",
+		"/C/Hugo/skylers_blog/content/about.md",
+		"/C/Hugo/skylers_blog/themes/purus/theme.toml",
+		"/C/Hugo/skylers_blog/content/projects/_index.md",
+		"/C/Hugo/skylers_blog/content/_index.md",
+		"/C/Hugo/skylers_blog/themes/purus/static/css/style.css",
+		"/C/Hugo/skylers_blog/themes/purus/layouts/partials/header.html",
+		"/C/Hugo/skylers_blog/themes/purus/layouts/partials/footer.html",
+		"/C/Hugo/skylers_blog/content/blog/_index.md",
+		"/C/Hugo/skylers_blog/themes/purus/README.md",
+		"/C/Hugo/skylers_blog/themes/purus/archetypes/default.md",
+		"/C/Hugo/skylers_blog/content/blog/Interesting Words and Phrases/_index.md",
+		"/C/Hugo/skylers_blog/content/blog/blog/Interesting_Words_and_Phrases_2.md",
+		"/C/Hugo/skylers_blog/content/blog/blog/Interesting_Words_and_Phrases_1.md",
+		"/C/Hugo/skylers_blog/content/blog/blog/Interesting_Words_and_Phrases_3.md",
+		"/C/Hugo/skylers_blog/content/blog/blog/Interesting_Words_and_Phrases_4.md",
+		"/C/Hugo/skylers_blog/content/blog/blog/Interesting_Words_and_Phrases_5.md",
+		"/C/Hugo/skylers_blog/content/blog/blog/Interesting_Words_and_Phrases_6.md",
+		"/C/Hugo/skylers_blog/content/blog/Interesting_Words_and_Phrases_4.md",
+		"/C/Hugo/skylers_blog/content/blog/Interesting_Words_and_Phrases_2.md",
+		"/C/Hugo/skylers_blog/content/blog/Interesting_Words_and_Phrases_3.md",
+		"/C/Hugo/skylers_blog/content/blog/Interesting_Words_and_Phrases_5.md",
+		"/C/Hugo/skylers_blog/archetypes/default.md",
+		"/C/Hugo/skylers_blog/content/bar.md",
+		"/C/Hugo/skylers_blog/content/blog/fistpost.md",
+		"/C/Hugo/skylers_blog/content/blog/content/blog/Interesting_Words_and_Phrases_6.md",
+		"/C/Hugo/skylers_blog/content/foo.md",
+		"/C/Hugo/skylers_blog/content/testofconect.md",
+		"/C/Hugo/skylers_blog/content/CV/_index.md",
+		"/C/Hugo/first_site/content/a.md",
+		"/C/Hugo/first_site/config.toml",
+		"/C/Users/Gear/Desktop/Msic/projectwithudit/applyrate.py",
+		"/C/Users/Gear/AppData/Local/Temp/rna-editing-with-crispr-cas13.bib",
+		"/C/Users/Gear/AppData/Local/Temp/current-crispr-gene-drive-systems-are-likely-to-be-highly-invasive-in-wild-populations.bib",
+		"/C/Users/Gear/AppData/Local/Temp/citation-228089110.bib.txt",
+		"/C/Users/Gear/AppData/Local/Temp/citation-235603663.bib.txt",
+		"/C/Users/Gear/AppData/Local/Temp/citation-320214967.bib.txt",
+		"/C/Users/Gear/AppData/Local/Temp/nature24049.ris",
+		"/C/Users/Gear/Desktop/Msic/projectwithudit/On the Prediction of Apply Rate",
+		"/C/Users/Gear/Documents/Personal/Life/Resume_Latex_2",
+		"/C/Users/Gear/Documents/Personal/Life/Resume_Latex",
+		"/C/Users/Gear/mystuff/automate/regexexample1.py",
+		"/C/Users/Gear/AppData/Local/Temp/S0360544203001932.bib",
+		"/C/Users/Gear/AppData/Local/Temp/S0360544210004172.bib",
+		"/C/Users/Gear/AppData/Local/Temp/S0306261917318421.bib",
+		"/C/Users/Gear/mystuff/NLP_with_python/chp2ex4.py",
+		"/C/Users/Gear/mystuff/NLP_with_python/chpt2script.py",
+		"/C/Users/Gear/mystuff/IPDwesbite/IPD.html",
+		"/C/Users/Gear/mystuff/IPDwesbite/IPD.css",
+		"/C/Users/Gear/AppData/Roaming/Sublime Text 3/Packages/User/Side Bar.sublime-settings",
+		"/C/Users/Gear/AppData/Roaming/Sublime Text 3/Packages/User/BracketGuard.sublime-settings",
+		"/C/Users/Gear/AppData/Roaming/Sublime Text 3/Packages/BracketGuard/BracketGuard.sublime-settings",
+		"/C/Users/Gear/mystuff/website/skt.css",
+		"/C/Users/Gear/mystuff/CSSPRJTS/codealong.css",
+		"/C/Users/Gear/mystuff/CSSPRJTS/cssblog.css",
+		"/C/Users/Gear/mystuff/CSSPRJTS/index.css",
+		"/C/Users/Gear/mystuff/CSSPRJTS/myfirststylesheet.css",
+		"/C/Users/Gear/mystuff/CSSPRJTS/selectors.css",
+		"/C/Users/Gear/mystuff/tgs/tgs.html",
+		"/C/Users/Gear/mystuff/tgs/tgs.css",
+		"/C/Users/Gear/mystuff/IPDwesbite/IPD.js",
+		"/C/Users/Gear/mystuff/Color Game/cg.html",
+		"/C/Users/Gear/mystuff/Color Game/cg.css",
+		"/C/Users/Gear/mystuff/Color Game/cg.js",
+		"/C/Users/Gear/mystuff/Score Keeper/sk.js",
+		"/C/Users/Gear/mystuff/HTMLPRJ/cssblog.html",
+		"/C/Users/Gear/mystuff/HTMLPRJ/myfirstpage.html",
+		"/C/Users/Gear/mystuff/HTMLPRJ/index.html",
+		"/C/Users/Gear/mystuff/HTMLPRJ/codealong.html",
+		"/C/Users/Gear/mystuff/HTMLPRJ/agecal.html",
+		"/C/Users/Gear/mystuff/HTMLPRJ/selectorsExercise.html",
+		"/C/Users/Gear/mystuff/HTMLPRJ/mysecondpage.html",
+		"/C/Users/Gear/mystuff/HTMLPRJ/qui1.html",
+		"/C/Users/Gear/mystuff/HTMLPRJ/quiz2.html",
+		"/C/Users/Gear/mystuff/HTMLPRJ/quiz3.html",
+		"/C/Users/Gear/mystuff/HTMLPRJ/quiz4.html",
+		"/C/Users/Gear/AppData/Roaming/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings"
+	],
+	"find":
+	{
+		"height": 70.2857142857
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "_index.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 263.0,
+	"status_bar_visible": false,
+	"template_settings":
+	{
+	}
+}

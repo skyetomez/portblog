@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+
+<html lang="{{ .Site.LanguageCode | default "en-us" }}">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  <title>{{ .Title | markdownify }}</title>
+  {{ with .Site.Params.description }}<meta name="description" content="{{ . }}">{{ end }}
+  {{ with .Site.Params.author }}<meta name="author" content="{{ . }}">{{ end }}
+
+  {{ with .Description }}<meta name="description" content="{{ . }}">{{ end }}
+
+  {{ with .Site.Params.google_site_verification }}<meta name="google-site-verification" content="{{ . }}">{{ end }}
+
+  <link rel="stylesheet" href="{{ relURL "css/style.css" }}">
+  <link rel="stylesheet" href="{{ relURL "css/syntax.css" }}">
+  <link rel="stylesheet" href="{{ relURL "css/fontawesome-all.css" }}">
+  <link rel="stylesheet" href="{{ relURL "css/academicons.min.css" }}">
+  
+  <!--stylesheets non-local stylesheets-->
+  <!--Fonts-->
+  <!--<link href="https://fonts.googleapis.com/css?family=Crimson+Text" rel="stylesheet"> -->
+  <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet"> 
+  <!--Pure StyleSheet-->
+  <link rel="stylesheet" href="https://unpkg.com/purecss@1.0.1/build/pure-min.css" integrity="sha384-oAOxQR6DkCoMliIh8yFnu25d7Eq/PHS21PClpwjOTeU2jRSq11vu66rf90/cZr47" crossorigin="anonymous">
+
+
+  {{ with .OutputFormats.Get "rss" -}}
+    {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
+	{{ end -}}
+
+  {{ hugo.Generator }}
+
+  {{ partial "mathjax_support.html" . }}
+
+ <script defer src="https://friconix.com/cdn/friconix.js"></script> 
+</head>
+
+<body>
+  <div class = "pure-u-*"> 
+    <header>
+      <div class = "pure-menu pure-menu-horizontal">
+          <a href="{{ relURL "/" }}" class="pure-menu-heading pure-menu-link">Home</a>
+          {{ range .Site.Menus.main }}
+            <!--&bull;-->
+            <li class="pure-menu-item">
+              <a href="{{ .URL | relURL }}" class="pure-menu-link" >{{ .Name }}</a> 
+            </li>
+          {{ end }}
+
+      </div>
+    </header>
