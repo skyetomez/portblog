@@ -34,6 +34,11 @@ _______
 
 <h3>Experience:</h3>
 
+:   Sep 2019 -June 2020 **English Teacher**; Whizdom English, (Logroño, Spain)
+	 - Taught reading comprehension, grammar skills and developed oral frequency with A1, A2, B1 and B2 students from ages 7 to 32.
+	- Prepared 11 different personalised lesson plans a week for over 60 different students to increase student understanding and interest.
+	- Analyzed and wrote more than 60 individualized student reports on how to help each student reach their goals.
+	- Developed and use personalized lesson plans for students to increase engagement and understandingg
  
 :   Aug 2019 **English Instructor**; CLIC International House, (Seville, Spain)
 	- Taught reading comrehension, grammar and developed oral frequency with B1 students.

@@ -1,37 +1,6 @@
 <footer>
-
-    <div class="pure-menu pure-menu-horizontal">
-	    <ul class="pure-menu-list">
-	        <li class="pure-menu-item">
-	        	<a href="#" class="pure-menu-link">
-	        		<i class="fi-xnsuxl-instagram"></i>
-	        	</a>
-	        </li>
-	        <li class="pure-menu-item">
-	        	<a href="#" class="pure-menu-link">
-	        		<i class="fi-xnsuxl-twitter"></i>
-	        	</a>
-	        </li>
-	        <li class="pure-menu-item">
-	        	<a href="#" class="pure-menu-link">
-	        		<i class="fi-snluxl-linkedin"></i>
-	        	</a>
-	        </li>
-	        <li class="pure-menu-item">
-	        	<a href="#" class="pure-menu-link">
-	        		<i class="fi-snsuxl-facebook"></i>
-	        	</a>
-	        </li>
-	    </ul>
-	</div>
-
-
-
       This page was last updated on <time datetime="{{ .Lastmod.Format "2006-01-02" }}">{{ .Page.Date.Format "Monday, January 2, 2006" }}</time>.
       {{ with .Site.Params.footer.text }}{{ . | markdownify }}{{ end }}
-
-
-			</footer>
-		</div>
-	</body>
+</footer>
+</body>
 </html>

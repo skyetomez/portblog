@@ -3,12 +3,9 @@ html
   overflow-y: scroll;
 }
 
-/*Applied so that font stacks with Pure.css*/
-body, html, button, input, select, textarea,
-    .pure-g [class *= "pure-u"]
+body
 {
-  /*font-family: 'Crimson Text', serif;*/
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Crimson Text', serif;
   font-size: 1.25em;
   max-width: 960px;
 
@@ -19,19 +16,15 @@ body, html, button, input, select, textarea,
   padding-right: 10px;
 }
 
-
-/*End of Pure Css markup */
+nav
+{
+  font-size: 1.00em;
+}
 
 img
 {
-  width: 25%;
-  height: 25%;
-}
-
-
-a
-{
-  font-weight: bold;
+  max-width: 100%;
+  height: auto;
 }
 
 h1, h2, h3, h4, h5
@@ -39,12 +32,32 @@ h1, h2, h3, h4, h5
   font-variant: small-caps;
 }
 
+h1
+{
+  font-size: 2em;
+}
+
+h2
+{
+  font-size: 1.5em;
+}
+
+h3
+{
+  font-size: 1.17em;
+}
+
+h4, h5
+{
+  font-size: 1em;
+}
+
 h1.title
 {
   margin-bottom: 0;
 }
 
-h2.tags, h2.feeds
+h2.tags
 {
   margin-top: 0;
   line-height: 1em;
@@ -83,3 +96,31 @@ footer
   font-size: 0.75em;
 }
 
+#toc
+{
+  float: right;
+  font-size: 0.75em;
+
+  display: table;
+
+  background-color: #F5F5F5;
+  border: 1px solid #E5E5E5;
+
+  margin: 1em;
+
+  padding-right: 10px;
+  padding-left:  10px;
+}
+
+header.toc
+{
+  border-bottom: none;
+  margin: 0;
+  padding: 0;
+}
+
+h2.toc
+{
+  padding: 0;
+  margin: 0;
+}
